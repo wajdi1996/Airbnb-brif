@@ -1,0 +1,16 @@
+a p, a b {
+    color: rgb(34, 34, 34);
+    line-height: 22px;
+    }
+    a p {
+    font-size: 18px;
+    }
+    a b {
+    font-size: 14px;
+    }
+    .footer-link {
+    font-size: 13.25px;
+    }
+    a , a:hover{
+    text-decoration: none;
+    }

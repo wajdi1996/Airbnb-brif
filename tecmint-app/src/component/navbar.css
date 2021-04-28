@@ -1,0 +1,45 @@
+.fil{
+    border: 2px white solid;
+    border-radius: 20%;
+
+}
+.logo{
+    width: 87px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+    
+}
+.Button {
+    background-color: black;
+    border: none;
+    margin-left: 5rem;
+    padding: 10px;
+    color:  white;
+    border-radius: 5%;
+}
+
+.nvs{
+    margin-right: -7em;
+}
+.nava{
+    background-image: url("./images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+   
+}
+.cont{
+text-align: left;
+margin-left: 4rem;
+
+margin-top: 8rem;
+}
+.hh{
+    font-size: 52px;
+}
+.pp{
+    font-size: 22px;
+
+}
