@@ -1,0 +1,44 @@
+.imgs{
+    width: 90%;
+    height: 90%;
+    border-radius: 5%;
+}
+.nassa{
+    display: flex;
+    justify-content:center;
+    font-size: 15px;
+}
+.titi{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 2rem;
+}
+
+.content{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 155px;
+    margin-left:35px;
+  }
+  .top-left {
+    position: absolute;
+    top: 58px;
+    left: 186px;
+  }
+  .bel{
+    width:65rem; 
+    height:25rem;
+    border-radius: 2%;
+    }
+    .h2{
+        font-size: 50px;
+    }
+    .pa{
+        font-size: 20px;
+}
+.btnu{
+    padding: 10px;
+    border-radius: 8%;
+    margin-top: 5px;
+}

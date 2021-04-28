@@ -1,0 +1,33 @@
+
+body {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  color: rgb(34, 34, 34);
+}
+
+
+.city {
+  display: flex;
+}
+
+.cities,.footer-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cities>*,.footer-section>* {
+  flex: 25%;
+}
+
+.explore-img {
+  width: 64px;
+  height: 64px;
+  border-radius: 5px;
+}
+
+.tit{
+    display: flex;
+flex-direction: flex-start;
+}
+
+

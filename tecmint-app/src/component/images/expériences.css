@@ -1,0 +1,14 @@
+body {
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    color: rgb(34, 34, 34);
+    }
+
+
+.experience-img {
+width: 361.333px;
+height: 361.333px;
+border-radius: 5px;
+}
+.exp-paragraph {
+margin-top: -13px;}
